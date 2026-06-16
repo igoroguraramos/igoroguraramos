@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=igoroguraramos&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-Software Engineer com mais de 5 anos de experiência desenvolvendo
+Software Engineer com mais de 10 anos de experiência desenvolvendo
 sistemas financeiros, plataformas de crédito, cobrança, logística e e-commerce.
 
 Especializado em APIs REST, microsserviços, arquiteturas distribuídas e ambientes cloud.
@@ -19,7 +19,7 @@ Especializado em APIs REST, microsserviços, arquiteturas distribuídas e ambien
 
 ## 🚀 Sobre Mim
 
-💼 +5 anos atuando com desenvolvimento de software
+💼 +10 anos atuando com desenvolvimento de software
 
 🏦 Experiência em fintechs, crédito, cobrança e sistemas financeiros
 
